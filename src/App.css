@@ -1,0 +1,49 @@
+img{
+  width: 300px;
+}
+h1{
+  text-align: center;
+  color: blueviolet;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 3rem;
+  background-color: bisque;
+  border-radius: 30px;
+}
+h2{
+  color: rgb(8, 101, 76);
+  font-family: cursive;
+  
+}
+video{
+  width: 500px; 
+  margin: 20px;
+}
+body{
+  background-color: azure;
+  padding: 20px;
+}
+hr{
+  height: 5px;
+  background-color: brown;
+  border-radius: 20px;
+}
+strong{
+  color: rgb(7, 167, 215);
+  
+}
+mark:hover{
+  background-color: red;
+}
+em{
+  color: palevioletred;
+  font-weight: 900;
+}
+video{
+  border-radius: 20px;
+}
+audio{
+  background-color: cadetblue;
+}
+.container{
+  display: flex;
+}
